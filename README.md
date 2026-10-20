@@ -23,7 +23,7 @@ Gosto de entender o que acontece **por trás das interfaces** e transformar idei
 
 <img src="section-stack.png" width="100%" alt="02 — Minha stack" />
 
-<img src="astack.png" width="100%" alt="Tecnologias: HTML5, CSS3, JavaScript, Python, Node.js, FastAPI, PostgreSQL, SQL, Git e GitHub." />
+<img src="stack.png" width="100%" alt="Tecnologias: HTML5, CSS3, JavaScript, Python, Node.js, FastAPI, PostgreSQL, SQL, Git e GitHub." />
 
 </div>
 
@@ -37,7 +37,7 @@ Gosto de entender o que acontece **por trás das interfaces** e transformar idei
 
 <br />
 
-<a href="https://github.com/Luanablucas/orderflow-api"><img src="assets/proj-api.png" width="48%" alt="OrderFlow API — Python, FastAPI e SQLAlchemy" /></a> <a href="https://github.com/Luanablucas/portfolio-luana"><img src="proj-portfolio.png" width="48%" alt="Meu portfólio — HTML, CSS e JavaScript" /></a>
+<a href="https://github.com/Luanablucas/orderflow-api"><img src="proj-api.png" width="48%" alt="OrderFlow API — Python, FastAPI e SQLAlchemy" /></a> <a href="https://github.com/Luanablucas/portfolio-luana"><img src="proj-portfolio.png" width="48%" alt="Meu portfólio — HTML, CSS e JavaScript" /></a>
 
 <br />
 
