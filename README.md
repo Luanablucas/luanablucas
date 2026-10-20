@@ -1,50 +1,63 @@
-<hr>
-<h1> Olá, meu nome é Luana! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFrdTEzYjk5dHc4OW51a3VlYzExajl6MWp4NHMzc3owMHUxdGpzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10a8AOSeP6Rqfu/giphy.gif" width="80px"></h1>
-
-<br>
-
 <div align="center">
 
- # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlmNzN2OGQzMGppaTNuNmZqdDlzYW5nbDd4MWx5eHkycTI5eGRtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6bXd6ZTYpZWrC/giphy.gif" height="40px" width="40px"> <samp>Um pouco sobre mim:</samp>
+<img src="assets/banner.svg" alt="Luana Lucas | Full Stack Developer | Entre códigos e possibilidades" width="100%" />
+
+<br />
+
+<a href="https://luanablucas.github.io/portfolio-luana/"><img src="https://img.shields.io/badge/Meu_Portf%C3%B3lio-FFB6D5?style=for-the-badge&logo=githubpages&logoColor=302033" alt="Meu portfólio" /></a>
+<a href="https://www.linkedin.com/in/luana-storch-b7395a236/"><img src="https://img.shields.io/badge/LinkedIn-56334F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" /></a>
 
 </div>
- 
-<p align=center><samp> Sou graduanda em Sitemas de informação. Apaixonada por cachorros, games, tecnologia e animes. Atualmente estudando o desenvolvimento de sistemas usando C# e me aventurando muito em mobile com Flutter.</p></samp>  
 
-<br>
+### ✿ Oi, eu sou a Luana!
+
+Sou estudante de **Sistemas de Informação** e construo projetos que conectam interfaces, regras de negócio, APIs e bancos de dados. Meu foco é **desenvolvimento Full Stack**, com um carinho especial pelo **back-end, Python e dados**.
+
+Gosto de entender como as coisas funcionam por trás da tela, organizar soluções que façam sentido e dar personalidade ao que desenvolvo — às vezes, com um toque de rosa. ♡
+
+- ✧ **Desenvolvimento:** aplicações web, APIs REST e integração entre sistemas.
+- ✧ **Interesses:** engenharia de software, automação, análise de dados e IA generativa.
+- ✧ **Atualmente:** desenvolvendo o **Pattern**, meu projeto de organização de rotinas e produtividade.
+
+### ♡ Minha stack
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML5, CSS3 e JavaScript" />
+
+**Back-end & APIs**
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi&theme=dark" alt="Python, Node.js, Express e FastAPI" />
+
+**Bancos de dados & ferramentas**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,docker,vscode&theme=dark" alt="PostgreSQL, SQLite, Git, GitHub, Docker e VS Code" />
+
+**Também trabalho com:** SQL • Pandas • SQLAlchemy • Pydantic • Pytest • EJS • integração com APIs.
+
+### ✦ Projetos em destaque
+
+| Projeto | Sobre | Tecnologias |
+| :--- | :--- | :--- |
+| **[OrderFlow API](https://github.com/Luanablucas/orderflow-api)** | API REST educacional para gerenciar clientes, produtos e pedidos, com validações e testes automatizados. | Python · FastAPI · SQLAlchemy · Pytest |
+| **[Meu portfólio](https://github.com/Luanablucas/portfolio-luana)** | Site pessoal interativo e responsivo para apresentar meus projetos e minha trajetória em tecnologia. | HTML · CSS · JavaScript |
+| **[Bom Preço](https://github.com/Luanablucas/Site-Bom-Preco)** | Projeto de e-commerce de supermercado, explorando interfaces e estrutura de aplicação web. | JavaScript · Node.js · Express |
+| **[Lista de Compras](https://github.com/Luanablucas/Site-Cadastro-Lista-de-Compras)** | Aplicação de cadastro e lista de produtos com integração a API. | HTML · CSS · JavaScript · MockAPI |
+
+### ✧ No meu espaço de desenvolvimento
+
+```text
+luana.dev
+├── front-end        → interfaces bonitas e funcionais
+├── back-end         → lógica, APIs e integrações
+├── dados            → SQL, Python e análise
+└── curiosidade      → estudar, testar e criar ♡
+```
 
 <div align="center">
- 
- 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlwbmJjcWQzeXppeGNkOGtsZDVqanh2Nmd2djhja3p6bmoydzl6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EGNi09y1CXeyA/giphy.gif" height="40px" width="40px"> <samp>Estudando: </samp>
- 
-<div style="display: inline_block"><br>
-  
- <img align="center" alt="Lua-C#" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">&nbsp;&nbsp;&nbsp; 
 
-<img align="center" alt="Lua-Flutter" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">&nbsp;&nbsp;&nbsp;
-          
-          
-        
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luanablucas&bg_color=211426&color=ffd4e6&line=f592bd&point=fff1f7&area=true&area_color=9c4a7b&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" alt="Gráfico de contribuições no GitHub" width="100%" />
+
+<sub>feito com cuidado, código e um pouquinho de rosa ♡</sub>
+
 </div>
- 
- 
-<br>
- 
-<div align="center">
- 
-</div> 
-
-<br>
- 
- <div align="center">
-  <a href="https://instagram.com/luanablucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contatoluanalucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luana-lucas-b7395a236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- </div>  
- 
- 
-<br>
- 
-<img align="center" alt="Luana-gif" height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkybHhjMTdvazU1YmFjYWM4Y2oyamJlcTMxcTZpNXMxZWJlN2h4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ks1IKLpcFMMWF0hiAj/giphy.gif">

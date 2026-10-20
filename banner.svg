@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Luana Lucas, desenvolvimento Full Stack. Entre códigos e possibilidades.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#211426"/><stop offset="0.58" stop-color="#321a32"/><stop offset="1" stop-color="#241528"/></linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffafd1"/><stop offset="1" stop-color="#ff70a9"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a243b"/><stop offset="1" stop-color="#271a30"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#fa70af" stop-opacity=".26"/><stop offset="1" stop-color="#fa70af" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffd1e5" opacity=".12"/></pattern>
+    <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#100b16" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1200" height="380" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="20" fill="url(#dots)"/>
+  <ellipse cx="1120" cy="220" rx="300" ry="255" fill="url(#glow)"/>
+  <ellipse cx="80" cy="340" rx="250" ry="175" fill="url(#glow)" opacity=".35"/>
+  <rect x="0" y="0" width="1200" height="10" rx="5" fill="url(#pink)"/>
+  <rect x="54" y="49" width="39" height="2" fill="#ff8fbd"/>
+  <text x="104" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="3" fill="#ffd9e9" font-weight="700">LUANA.DEV</text>
+  <text x="290" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#b99db9">/  PERFIL GITHUB</text>
+  <text x="1112" y="56" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2" text-anchor="end" fill="#ffb7d6">FULL STACK  ✦</text>
+  <rect x="54" y="105" width="5" height="117" rx="2" fill="url(#pink)"/>
+  <text x="79" y="149" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="-2" fill="#fff2f8">Luana <tspan fill="url(#pink)">Lucas</tspan></text>
+  <text x="82" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#f8c4db" letter-spacing="1">Entre códigos e possibilidades.</text>
+  <text x="82" y="225" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#cab5c9">Desenvolvimento de software • Back-end • Dados &amp; IA</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">
+    <rect x="82" y="253" width="118" height="31" rx="15.5" fill="#ffabd0"/><text x="141" y="273" text-anchor="middle" fill="#342034">FULL STACK</text>
+    <rect x="209" y="253" width="115" height="31" rx="15.5" fill="none" stroke="#d77da8" stroke-width="1.3"/><text x="266" y="273" text-anchor="middle" fill="#ffe0ec">PYTHON</text>
+    <rect x="333" y="253" width="103" height="31" rx="15.5" fill="none" stroke="#d77da8" stroke-width="1.3"/><text x="384" y="273" text-anchor="middle" fill="#ffe0ec">APIs REST</text>
+  </g>
+  <rect x="700" y="95" width="445" height="223" rx="16" fill="#1b1426" stroke="#875673" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="700" y="95" width="445" height="41" rx="16" fill="url(#panel)"/>
+  <rect x="700" y="118" width="445" height="18" fill="url(#panel)"/>
+  <circle cx="728" cy="116" r="5.5" fill="#ff91b9"/><circle cx="747" cy="116" r="5.5" fill="#ffc5a7"/><circle cx="766" cy="116" r="5.5" fill="#cba4df"/>
+  <text x="1109" y="120" font-size="12" text-anchor="end" fill="#d7a7c6" font-family="Consolas, Menlo, monospace">luana.ts  ♡</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="18">
+    <text x="733" y="170"><tspan fill="#ff94c0">const</tspan><tspan fill="#fbe5f1"> developer </tspan><tspan fill="#ceafed">= {</tspan></text>
+    <text x="763" y="199"><tspan fill="#d9b9ff">name</tspan><tspan fill="#ead9ea">: </tspan><tspan fill="#a4e0cb">'Luana'</tspan><tspan fill="#ead9ea">,</tspan></text>
+    <text x="763" y="228"><tspan fill="#d9b9ff">focus</tspan><tspan fill="#ead9ea">: </tspan><tspan fill="#a4e0cb">'Full Stack'</tspan><tspan fill="#ead9ea">,</tspan></text>
+    <text x="763" y="257"><tspan fill="#d9b9ff">style</tspan><tspan fill="#ead9ea">: </tspan><tspan fill="#a4e0cb">'pink &amp; logic'</tspan></text>
+    <text x="733" y="286" fill="#ceafed">}</text>
+  </g>
+  <g stroke="#ff8abb" fill="none" stroke-linecap="round">
+    <path d="M640 114v32M624 130h32" stroke-width="3"/><path d="M1162 272v23M1150 283.5h24" stroke-width="2" opacity=".8"/>
+    <path d="M58 319v14M51 326h14" stroke-width="1.5" opacity=".9"/>
+  </g>
+  <path d="M651 260c-10-13-29-2-16 13l16 14 16-14c13-15-6-26-16-13z" fill="#ffa9cf" opacity=".8"/>
+  <path d="M1177 86c-7-10-21-2-11 9l11 10 11-10c10-11-4-19-11-9z" fill="#ff83b5" opacity=".75"/>
+  <rect x="0" y="344" width="1200" height="36" rx="0" fill="#ef83b6"/>
+  <path d="M0 344h1200" stroke="#ffaad0" stroke-width="2"/>
+  <text x="600" y="367" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5" fill="#311d32">LÓGICA, CRIATIVIDADE E UM TOQUE DE ROSA  ✿</text>
+</svg>
