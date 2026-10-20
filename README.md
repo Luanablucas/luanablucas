@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Luana Lucas — Full Stack Developer. Entre códigos e possibilidades." />
+<img src="banner.png" width="100%" alt="Luana Lucas — Full Stack Developer. Entre códigos e possibilidades." />
 
 <br />
 
-<a href="https://luanablucas.github.io/portfolio-luana/"><img src="assets/btn-portfolio.png" width="200" alt="Acessar meu portfólio" /></a> &nbsp; <a href="https://www.linkedin.com/in/luana-lucas-b7395a236/"><img src="assets/btn-linkedin.png" width="151" alt="Meu LinkedIn" /></a>
+<a href="https://luanablucas.github.io/portfolio-luana/"><img src="btn-portfolio.png" width="200" alt="Acessar meu portfólio" /></a> &nbsp; <a href="https://www.linkedin.com/in/luana-storch-b7395a236/"><img src="btn-linkedin.png" width="151" alt="Meu LinkedIn" /></a>
 
 <br />
 <br />
 
-<img src="assets/section-about.png" width="100%" alt="01 — Sobre mim" />
+<img src="section-about.png" width="100%" alt="01 — Sobre mim" />
 
-<img src="assets/about.png" width="100%" alt="Oi! Sou Luana, estudante de Sistemas de Informação, com foco em desenvolvimento Full Stack e interesse especial em back-end e dados." />
+<img src="about.png" width="100%" alt="Oi! Sou Luana, estudante de Sistemas de Informação, com foco em desenvolvimento Full Stack e interesse especial em back-end e dados." />
 
 </div>
 
@@ -21,9 +21,9 @@ Gosto de entender o que acontece **por trás das interfaces** e transformar idei
 
 <br />
 
-<img src="assets/section-stack.png" width="100%" alt="02 — Minha stack" />
+<img src="section-stack.png" width="100%" alt="02 — Minha stack" />
 
-<img src="assets/stack.png" width="100%" alt="Tecnologias: HTML5, CSS3, JavaScript, Python, Node.js, FastAPI, PostgreSQL, SQL, Git e GitHub." />
+<img src="astack.png" width="100%" alt="Tecnologias: HTML5, CSS3, JavaScript, Python, Node.js, FastAPI, PostgreSQL, SQL, Git e GitHub." />
 
 </div>
 
@@ -33,30 +33,30 @@ Gosto de entender o que acontece **por trás das interfaces** e transformar idei
 
 <br />
 
-<img src="assets/section-projects.png" width="100%" alt="03 — Projetos em destaque" />
+<img src="section-projects.png" width="100%" alt="03 — Projetos em destaque" />
 
 <br />
 
-<a href="https://github.com/Luanablucas/orderflow-api"><img src="assets/proj-api.png" width="48%" alt="OrderFlow API — Python, FastAPI e SQLAlchemy" /></a> <a href="https://github.com/Luanablucas/portfolio-luana"><img src="assets/proj-portfolio.png" width="48%" alt="Meu portfólio — HTML, CSS e JavaScript" /></a>
+<a href="https://github.com/Luanablucas/orderflow-api"><img src="assets/proj-api.png" width="48%" alt="OrderFlow API — Python, FastAPI e SQLAlchemy" /></a> <a href="https://github.com/Luanablucas/portfolio-luana"><img src="proj-portfolio.png" width="48%" alt="Meu portfólio — HTML, CSS e JavaScript" /></a>
 
 <br />
 
-<a href="https://github.com/Luanablucas/Site-Bom-Preco"><img src="assets/proj-mercado.png" width="48%" alt="Bom Preço — JavaScript, Node.js e Express" /></a> <a href="https://github.com/Luanablucas/Site-Cadastro-Lista-de-Compras"><img src="assets/proj-lista.png" width="48%" alt="Lista de Compras — HTML, CSS e MockAPI" /></a>
+<a href="https://github.com/Luanablucas/Site-Bom-Preco"><img src="proj-mercado.png" width="48%" alt="Bom Preço — JavaScript, Node.js e Express" /></a> <a href="https://github.com/Luanablucas/Site-Cadastro-Lista-de-Compras"><img src="proj-lista.png" width="48%" alt="Lista de Compras — HTML, CSS e MockAPI" /></a>
 
 <br />
 <br />
 
-<img src="assets/section-connect.png" width="100%" alt="04 — Me encontre" />
+<img src="section-connect.png" width="100%" alt="04 — Me encontre" />
 
 **Meus projetos contam um pouco do que eu gosto de construir. Quer ver mais?**
 
 <br />
 
-<a href="https://luanablucas.github.io/portfolio-luana/"><img src="assets/btn-portfolio.png" width="200" alt="Acessar meu portfólio" /></a> &nbsp; <a href="https://www.linkedin.com/in/luana-lucas-b7395a236/"><img src="assets/btn-linkedin.png" width="151" alt="Meu LinkedIn" /></a>
+<a href="https://luanablucas.github.io/portfolio-luana/"><img src="btn-portfolio.png" width="200" alt="Acessar meu portfólio" /></a> &nbsp; <a href="https://www.linkedin.com/in/luana-storch-b7395a236/"><img src="btn-linkedin.png" width="151" alt="Meu LinkedIn" /></a>
 
 <br />
 <br />
 
-<img src="assets/footer.png" width="100%" alt="Feito com cuidado, código e um pouquinho de rosa." />
+<img src="footer.png" width="100%" alt="Feito com cuidado, código e um pouquinho de rosa." />
 
 </div>
