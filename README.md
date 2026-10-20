@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Luana Lucas — Full Stack Developer. Entre códigos e possibilidades." />
+<img src="banner-v2.png" width="100%" alt="Luana Lucas — Full Stack Developer. Entre códigos e possibilidades." />
 
 <br />
 
